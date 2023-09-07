@@ -1,2 +1,2 @@
 # sql-challenge
-Got help from the tutor to figure out how to put the ERD into SQL, googled syntax and how to organize queries
+Got help from the tutor on how to put the ERD into SQL and fixing the ERD, googled syntax and how to organize queries
